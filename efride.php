@@ -452,7 +452,7 @@
 									<li class="clearfix">
 										<div class="member-details">
 											<div>
-												<img src="img/team/pp.png" alt="EF'Ride">
+												<img src="img/team/damien.png" alt="EF'Ride">
 												<div class="member-info">
 													<h3>Damien</h3>
 													<p>Parrain</p>
@@ -462,7 +462,7 @@
 
 										<div class="member-details">
 											<div>
-												<img src="img/team/pp.png" alt="EF'Ride">
+												<img src="img/team/alexandre.png" alt="EF'Ride">
 												<div class="member-info">
 													<h3>Alexandre</h3>
 													<p>Communication</p>

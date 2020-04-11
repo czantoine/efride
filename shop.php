@@ -11,7 +11,6 @@ content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=
 
 	<?php include ("menu.php"); ?> 
 
-	<br/><br/><br/>
 
 	<div class="wrapper">
 
