@@ -20,8 +20,7 @@
                 <ul class="list-inline quicklinks">
                     <li><a href="CGV.php">CGV</a>
                     </li>
-                    <li><a href="terms.php">Terms of Use</a>
-                    </li>
+                    
                 </ul>
             </div>
         </div>

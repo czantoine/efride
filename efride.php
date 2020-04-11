@@ -234,7 +234,7 @@
 									<i class="fa fa-plus fa-3x"></i>
 								</div>
 							</div>
-							<img src="img/hockefrei.jpeg" class="img-responsive" alt="Hock'efrei">
+							<img src="img/hockefrei.jpeg" class="img-responsive" alt="Hock'efrei, Hockefrei, première équipe universitaire, hockey sur glace efrei,">
 						</a>
 						<div class="portfolio-caption">
 							<h4>Hockey sur glace</h4>
