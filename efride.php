@@ -406,7 +406,7 @@
 
 										<div class="member-details">
 											<div>
-												<img src="img/team/pp.png" alt="EF'Ride">
+												<img src="img/team/aurelien.png" alt="EF'Ride">
 												<div class="member-info">
 													<h3>Aurélien</h3>
 													<p>Sécrétaire</p>

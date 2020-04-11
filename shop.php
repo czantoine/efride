@@ -31,7 +31,7 @@ content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=
 				</div>
 
 				<div class="product-img__item" id="img3">
-					<img src="" alt="sweat" class="product-img__img">
+					<img src=img/shop/sweat.png alt="sweat" class="product-img__img">
 				</div>
 
 				<div class="product-img__item" id="img4">
