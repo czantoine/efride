@@ -421,7 +421,7 @@
 
 										<div class="member-details">
 											<div>
-												<img src="http://gocheckers.com/images/roster/josh_wesley_headshot_1718.png" alt="UI Designer">
+												<img src="img/team/pp.png" alt="EF'Ride">
 												<div class="member-info">
 													<h3>Léo</h3>
 													<p>Vice-président</p>
@@ -431,10 +431,10 @@
 
 										<div class="member-details">
 											<div>
-												<img src="https://axis.org/wp-content/uploads/2014/10/chris-headshot.png" alt="UI Designer">
+												<img src="img/team/pp.png" alt="EF'Ride">
 												<div class="member-info">
 													<h3>Aurélien</h3>
-													<p>Sécr</p>
+													<p>Sécrétaire</p>
 												</div>
 											</div>
 										</div>
@@ -477,47 +477,47 @@
 									<li class="clearfix">
 										<div class="member-details">
 											<div>
-												<img src="https://axis.org/wp-content/uploads/2014/10/chris-headshot.png" alt="UI Designer">
+												<img src="img/team/pp.png" alt="EF'Ride">
 												<div class="member-info">
-													<h3>John Doe</h3>
-													<p>UI Designer</p>
+													<h3>Damien</h3>
+													<p>Parrain</p>
 												</div>
 											</div>
 										</div>
 
 										<div class="member-details">
 											<div>
-												<img src="https://axis.org/wp-content/uploads/2014/12/jeremiah-e1418073411753.png" alt="UI Designer">
+												<img src="img/team/pp.png" alt="EF'Ride">
 												<div class="member-info">
-													<h3>John Doe</h3>
-													<p>UI Designer</p>
+													<h3>Alexandre</h3>
+													<p>Communication</p>
 												</div>
 											</div>
 										</div>
 
 										<div class="member-details">
 											<div>
-												<img src="http://gocheckers.com/images/roster/josh_wesley_headshot_1718.png" alt="UI Designer">
+												<img src="img/team/pp.png" alt="EF'Ride">
 												<div class="member-info">
-													<h3>John Doe</h3>
-													<p>UI Designer</p>
+													<h3>Etienne</h3>
+													<p>Graphiste</p>
 												</div>
 											</div>
 										</div>
-									</li><!-- /single member row ends -->
+									</li>
 
-								</ul><!-- /end team-photos -->
-							</div><!-- /end col-md-8 -->
+								</ul>
+							</div>
 
 							<div class="pull-left col-md-4 sm-text-center">
 								<div class="team-overview">
-									<h2>Who Are We?</h2>
-									<a href="#">Meet the Entire Team</a>
-									<p><div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci quae nesciunt officia! Autem, nam eum voluptatem, esse voluptatibus deleniti tempora laboriosam sequi pariatur, explicabo itaque. Fuga, deserunt? Repudiandae, neque qui.</div></p>
+									<h1>Qui sommes-nous ?</h1>
+									<h3 class="section-subheading text-muted">Venez à la rencontre de l'équipe</h3>
+									<p><div>EF'Ride, à sa création c'est un groupe de pote qui avait envie de rider le bitume de paname. Maintenant c'est plus de 80 personnes, plusieurs disciplines réparti en pôle et un club de hockey sur glace.</div></p>
 								</div>
-							</div><!-- /end col-md-4 -->
-						</div><!-- /end row -->
-					</div><!-- /end container -->
+							</div>
+						</div>
+					</div>
 				</section>
 
 
