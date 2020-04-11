@@ -7,32 +7,7 @@
 <link rel="stylesheet" href="css/styleteam.css">
 
 <body>
-	<div id="fb-root"></div>
-	<script>
-		window.fbAsyncInit = function() {
-			FB.init({
-				xfbml            : true,
-				version          : 'v6.0'
-			});
-		};
-
-		(function(d, s, id) {
-			var js, fjs = d.getElementsByTagName(s)[0];
-			if (d.getElementById(id)) return;
-			js = d.createElement(s); js.id = id;
-			js.src = 'https://connect.facebook.net/fr_FR/sdk/xfbml.customerchat.js';
-			fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-
-		<!-- Your customer chat code -->
-		<div class="fb-customerchat"
-		attribution=setup_tool
-		page_id="569672709803629"
-		theme_color="#fa3c4c"
-		logged_in_greeting="Bonjour, on peut aider ? "
-		logged_out_greeting="Bonjour, on peut aider ? ">
-	</div>
-
+	
 	<body id="page-top" class="index" data-pinterest-extension-installed="cr1.3.4">
 
 
@@ -68,7 +43,7 @@
 							<a class="page-scroll" href="#team">Team</a>
 						</li>
 						<li class="">
-							<a class="page-scroll" href="#contact">Contact</a>
+							<a class="page-scroll" href="contact.php">Contact</a>
 						</li>
 						<li class="">
 							<a class="page-scroll" href="shop.php">Shop</a>

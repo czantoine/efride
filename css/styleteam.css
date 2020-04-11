@@ -1,4 +1,8 @@
 
+#team{
+    background-color: #f7f7f7;
+}
+
 /*  Team Starts */
 .team-members {
     -webkit-transform: rotate(-45deg);

@@ -30,7 +30,7 @@
 					<a class="page-scroll" href="efride.php">Team</a>
 				</li>
 				<li class="">
-					<a class="page-scroll" href="efride.php">Contact</a>
+					<a class="page-scroll" href="contact.php">Contact</a>
 				</li>
 				<li class="">
 					<a class="page-scroll" href="shop.php">Shop</a>
@@ -41,3 +41,8 @@
 	</div>
 
 </nav>
+
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+					<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+					<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'></script><script  src="./script.js"></script>
