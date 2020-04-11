@@ -23,19 +23,19 @@ content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=
 			<div class="product-img">
 
 				<div class="product-img__item" id="img1">
-					<img src="img/shop/casquetteefride.png">
+					<img src="img/shop/casquetteefride.png" alt="casquette ef'ride">
 				</div>
 
 				<div class="product-img__item" id="img2">
-					<img src="" alt="star wars" class="product-img__img">
+					<img src="img/shop/deckserie2.png" alt="deck" class="product-img__img">
 				</div>
 
 				<div class="product-img__item" id="img3">
-					<img src="" alt="star wars" class="product-img__img">
+					<img src="" alt="sweat" class="product-img__img">
 				</div>
 
 				<div class="product-img__item" id="img4">
-					<img src="img/shop/space-edition.png" alt="star wars" class="product-img__img">
+					<img src="img/shop/space-edition.png" alt="deck space edition EF'Ride" class="product-img__img">
 				</div>
 
 
@@ -273,7 +273,7 @@ content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=
 										</button>
 									</a>
 
-									<button class="product-slider__fav js-fav"><span class="heart"><a href="" target="_blank"></span> L'interviw du designer</button></a>
+									<button class="product-slider__fav js-fav"><span class="heart"><a href="" ></span> L'interview du designer</button></a>
 								</div>
 							</div>
 						</div>
@@ -287,7 +287,7 @@ content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=
 									SWEAT <br>
 									EF'Ride
 								</h1>
-								<span class="product-slider__price">50 € <sup>00</sup></span>
+								<span class="product-slider__price">20 € <sup>00</sup></span>
 								<div class="product-ctr">
 									<div class="product-labels">
 										<div class="product-labels__title"></div>
