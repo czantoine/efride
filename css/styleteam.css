@@ -9,6 +9,10 @@
     width: 20%;
 }
 
+ul {
+    list-style: none;
+}
+
 .team-members li:nth-child(2) > div:first-child {
     margin-left: 20%;
 }
