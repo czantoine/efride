@@ -59,9 +59,24 @@
 		<header>
 			<div class="container">
 				<div class="intro-text">
-					<div class="intro-lead-in">Hello !</div>
-					<div class="intro-heading">RIDE OR DIE</div>
+					<h3 class="txt anim-text-flow">HELLO !</h3>
+					<div  class="home col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<h3 id="resizing-h3" class="" >
+							<span>
+								<div class="stage">
+									<div class="cubespinner">
+										<div class="face1"></div>
+										<div class="face2"><center>DIE</center></div>
+										<div class="face3"><center>OR</center></div>
+										<div class="face4"><center>RIDE</center></div>
+									</div>
+								</div>
+							</span>
+						</h3>
+					</div>
+					<br/>	<br/>	<br/>	<br/>	<br/>	<br/><br/>	<br/>
 					<a href="#services" class="page-scroll btn btn-xl">S'inscrire</a>
+
 				</div>
 			</div>
 		</header>
@@ -686,6 +701,7 @@
 					<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 					<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
 					<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'></script><script  src="./script.js"></script>
+					<script  src="./scriptcolor.js"></script>
 
 
 
