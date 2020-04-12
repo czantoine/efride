@@ -1008,9 +1008,9 @@ body {
 
 .anim-text-flow,
 .anim-text-flow-hover:hover {
-font-size: 120px;
-
+font-size: 100px;
 }
+
 .anim-text-flow span,
 .anim-text-flow-hover:hover span {
   -webkit-animation-name: anim-text-flow-keys;
@@ -1657,9 +1657,18 @@ font-size: 120px;
 
 .home{
     width:100%;
-     margin-left: -200px;
-
+    margin-left: -200px;
 }
+
+@media(max-width:500px) {
+    .home{
+
+    }
+    span{
+        font-size: 65px;
+    }
+}
+
 .home:before{
 
     position: absolute;
@@ -1816,4 +1825,3 @@ font-size: 120px;
     }
 
 
-    
