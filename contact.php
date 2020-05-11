@@ -3,7 +3,7 @@
 
 <?php include ("head.php"); ?>
 
-<body style="background-color:#0084FF">
+<body >
 	<div id="fb-root"></div>
 	<script>
 		window.fbAsyncInit = function() {
@@ -35,7 +35,13 @@
     <br/> <br/><br/> <br/> <br/>
 
      <center><h2>Contactez-nous</h2></center>
-     <center><p>Directement sur Messenger </p></center>
+     <center><p>Directement sur Messenger ou sur notre Discord </p></center>
+     <br>
+     <center><h2>Discord </h2></center>
+     <br><br>
+     <center><iframe src="https://discordapp.com/widget?id=446302117863489536&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></center>
+     <br><br><br><br><br>
+     <center><h2>Messenger </h2></center>
 
       <a href="https://www.facebook.com/messages/t/569672709803629" target="_blank">
       	<div class="bubble-chat">

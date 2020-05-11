@@ -14,6 +14,8 @@
                     </li>
                     <li><a href="https://www.youtube.com/channel/UCTXnvOM8JZJXi9s8JbqtzVg?sub_confirmation=1" target="_blank"><img src="img/youtube.png"></a>
                     </li>
+                    <li><a href="https://discord.gg/6XkQh93" target="_blank"><img src="img/discord.png"></a>
+                    </li>
                 </ul>
             </div>
             <div class="col-md-4">
