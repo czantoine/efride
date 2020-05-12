@@ -4,6 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
@@ -13,32 +14,57 @@
 </url>
 <url>
   <loc>http://efride.fr/efride.php</loc>
-  <lastmod>2020-05-11T19:55:24+00:00</lastmod>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://efride.fr/contact.php</loc>
-  <lastmod>2020-05-11T19:55:24+00:00</lastmod>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://efride.fr/shop.php</loc>
-  <lastmod>2020-05-11T19:55:24+00:00</lastmod>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://efride.fr/adhesions.php</loc>
-  <lastmod>2020-05-11T19:55:24+00:00</lastmod>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://efride.fr/CGV.php</loc>
-  <lastmod>2020-05-11T19:55:24+00:00</lastmod>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://efride.fr/sitemap.php</loc>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://efride.fr/order.php</loc>
-  <lastmod>2020-05-11T19:55:24+00:00</lastmod>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://efride.fr/index.html</loc>
+  <lastmod>2020-04-11T12:05:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://efride.fr/soiree-patinoire.php</loc>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://efride.fr/pave.php</loc>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://efride.fr/hockefrei.php</loc>
+  <lastmod>2020-05-12T06:01:54+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
