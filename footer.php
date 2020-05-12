@@ -22,7 +22,10 @@
                 <ul class="list-inline quicklinks">
                     <li><a href="CGV.php">CGV</a>
                     </li>
-                    
+                </ul>
+                <ul class="list-inline quicklinks">
+                    <li><a href="sitemap.php">Site Map</a>
+                    </li>  
                 </ul>
             </div>
         </div>
