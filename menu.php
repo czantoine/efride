@@ -18,22 +18,16 @@
 					<a href="efride.php"></a>
 				</li>
 				<li class="">
-					<a class="page-scroll" href="efride.php">S'inscrire</a>
-				</li>
-				<li class="">
-					<a class="page-scroll" href="efride.php">Activités</a>
-				</li>
-				<li class="">
-					<a class="page-scroll" href="efride.php">Notre histoire</a>
-				</li>
-				<li class="">
-					<a class="page-scroll" href="efride.php">Team</a>
+					<a class="page-scroll" href="efride.php">Accueil</a>
 				</li>
 				<li class="">
 					<a class="page-scroll" href="contact.php">Contact</a>
 				</li>
 				<li class="">
 					<a class="page-scroll" href="shop.php">Shop</a>
+				</li>
+				<li class="">
+					<a class="page-scroll" href="tips.php">Tips</a>
 				</li>
 			</ul>
 		</div>
