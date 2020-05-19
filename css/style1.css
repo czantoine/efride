@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Agency Bootstrap Theme (https://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+
 
 body {
     overflow-x: hidden;
@@ -549,6 +545,11 @@ section h3.section-subheading {
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
+}
+
+.imgtips img{
+  max-width: 100%;
+  height: auto;
 }
 
 @media(min-width:768px) {
@@ -1823,5 +1824,7 @@ font-size: 100px;
       -ms-transform: rotateX(360deg);
       transform: rotateX(360deg);
     }
+
+
 
 

@@ -30,7 +30,11 @@
                 <ul class="list-inline quicklinks">
                     <li><a href="contact.php">Contact EF'Ride</a>
                     </li>
-                </ul>		
+                </ul>	
+                <ul class="list-inline quicklinks">
+                    <li><a href="tips.php">Tips gratuit</a>
+                    </li>
+                </ul>	
                 <ul class="list-inline quicklinks">
                     <li><a href="shop.php">Shop</a>
                     </li>
@@ -62,7 +66,7 @@
             </div>
 
 
-<br/><br/><br/><br/>  <br/><br/><br/><br/>    <br/> <br/>         <br/> <br/>      <br/> <br/>      <br/> <br/>      <br/>  
+<br/><br/><br/><br/>  <br/><br/><br/><br/>    <br/> <br/>         <br/> <br/>      <br/> <br/>      <br/> <br/>      <br/>    <br/>    <br/>  
 
 <?php include ("footer.php"); ?>
 

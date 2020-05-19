@@ -1,7 +1,12 @@
  <footer>
     <div class="container">
         <div class="row">
+
             <div class="col-md-4">
+                <ul class="list-inline quicklinks">
+                    <li><a href="tips.php">Tips Gratuit</a>
+                    </li>
+                </ul>
                 <span class="copyright">Copyright © EF'Ride 2014 - 2020</span>
             </div>
             <div class="col-md-4">
@@ -28,6 +33,7 @@
                     </li>  
                 </ul>
             </div>
+
         </div>
     </div>
 </footer>
