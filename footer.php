@@ -7,7 +7,7 @@
                     <li><a href="tips.php">Tips Gratuit</a>
                     </li>
                 </ul>
-                <span class="copyright">Copyright © EF'Ride 2014 - 2020</span>
+                <p>Copyright © EF'Ride 2014 - 2020</p>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline ">
