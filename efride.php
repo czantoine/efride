@@ -51,6 +51,9 @@
 						<li class="">
 							<a class="page-scroll" href="tips.php">Tips</a>
 						</li>
+						<li class="">
+							<a class="page-scroll" href="tips.php">Matériels</a>
+						</li>
 					</ul>
 				</div>
 
@@ -512,7 +515,6 @@
 						</div>
 					</div>
 				</section>
-
 
 				<?php include ("footer.php"); ?>
 

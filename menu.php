@@ -29,6 +29,9 @@
 				<li class="">
 					<a class="page-scroll" href="tips.php">Tips</a>
 				</li>
+				<li class="">
+					<a class="page-scroll" href="materiels.php">Matériels</a>
+				</li>
 			</ul>
 		</div>
 

@@ -36,6 +36,10 @@
                     </li>
                 </ul>	
                 <ul class="list-inline quicklinks">
+                    <li><a href="materiels.php">Matériels</a>
+                    </li>
+                </ul>
+                <ul class="list-inline quicklinks">
                     <li><a href="shop.php">Shop</a>
                     </li>
                 </ul>
