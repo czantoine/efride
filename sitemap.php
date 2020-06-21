@@ -24,57 +24,57 @@
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="adhesions.php">Adhésion EF'Ride</a>
+                    <li><a href="adhesions.php">EF'Ride - Adhésion </a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="videos.php">Vidéos EF'Ride</a>
+                    <li><a href="videos.php">EF'Ride - Vidéos</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="contact.php">Contact EF'Ride</a>
+                    <li><a href="contact.php">EF'Ride - Contact</a>
                     </li>
                 </ul>	
                 <ul class="list-inline quicklinks">
-                    <li><a href="tips.php">Tips gratuit EF'Ride</a>
+                    <li><a href="tips.php">EF'Ride - Tips gratuit</a>
                     </li>
                 </ul>	
                 <ul class="list-inline quicklinks">
-                    <li><a href="materiels.php">Matériels EF'Ride</a>
+                    <li><a href="materiels.php">EF'Ride - Matériels</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="shop.php">Shop EF'Ride</a>
+                    <li><a href="shop.php">EF'Ride - Shop</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="order.php">Commande EF'Ride</a>
+                    <li><a href="order.php">EF'Ride - Commande</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="soiree-patinoire.php">Soirée Patinoire EF'Ride</a>
+                    <li><a href="soiree-patinoire.php">EF'Ride - Soirée Patinoire</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="CGV.php">CGV EF'Ride</a>
+                    <li><a href="CGV.php">EF'Ride - CGV</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="pave.php">PAVE EF'Ride</a>
+                    <li><a href="pave.php">EF'Ride - PAVE</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="hockefrei.php">Hock'Efrei EF'Ride</a>
+                    <li><a href="hockefrei.php">EF'Ride - Hock'Efrei</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="sitemap.php">Site Map EF'Ride</a>
+                    <li><a href="sitemap.php">EF'Ride - Site Map</a>
                     </li>  
                 </ul>
             </div>
 
 
-<br/><br/><br/><br/>  <br/><br/><br/><br/>    <br/> <br/>         <br/> <br/>      <br/> <br/>      <br/> <br/>      <br/>    <br/>    <br/>  
+<br/><br/><br/><br/>  <br/><br/><br/><br/>    <br/> <br/>         <br/> <br/>      <br/> <br/>      <br/> <br/>      <br/>    <br/>    <br/>  <br/>  <br/>  <br/>  <br/>  
 
 <?php include ("footer.php"); ?>
 
