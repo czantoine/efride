@@ -52,7 +52,7 @@
 							<a class="page-scroll" href="tips.php">Tips</a>
 						</li>
 						<li class="">
-							<a class="page-scroll" href="tips.php">Matériels</a>
+							<a class="page-scroll" href="materiels.php">Matériels</a>
 						</li>
 					</ul>
 				</div>
@@ -307,6 +307,11 @@
 						</div>
 					</div>
 				</div>
+			    </br></br>
+				<center>
+					<a href="videos.php" class="page-scroll btn btn-xl">Regarder nos vidéos</a>
+				</center>
+				
 			</section>
 
 			<!-- About Section -->

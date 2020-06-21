@@ -614,6 +614,8 @@ section h3.section-subheading {
   height: auto;
 }
 
+
+
 @media(min-width:768px) {
     .timeline:before {
         left: 50%;
@@ -791,6 +793,8 @@ footer {
     padding: 25px 0;
     text-align: center;
     background-color:#D3D3D3;
+    z-index: 99;
+    position: relative;
 }
 
 footer span.copyright {

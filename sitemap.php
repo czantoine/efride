@@ -28,43 +28,47 @@
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
+                    <li><a href="videos.php">Vidéos EF'Ride</a>
+                    </li>
+                </ul>
+                <ul class="list-inline quicklinks">
                     <li><a href="contact.php">Contact EF'Ride</a>
                     </li>
                 </ul>	
                 <ul class="list-inline quicklinks">
-                    <li><a href="tips.php">Tips gratuit</a>
+                    <li><a href="tips.php">Tips gratuit EF'Ride</a>
                     </li>
                 </ul>	
                 <ul class="list-inline quicklinks">
-                    <li><a href="materiels.php">Matériels</a>
+                    <li><a href="materiels.php">Matériels EF'Ride</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="shop.php">Shop</a>
+                    <li><a href="shop.php">Shop EF'Ride</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="order.php">Commande</a>
+                    <li><a href="order.php">Commande EF'Ride</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="soiree-patinoire.php">Soirée Patinoire</a>
+                    <li><a href="soiree-patinoire.php">Soirée Patinoire EF'Ride</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="CGV.php">CGV</a>
+                    <li><a href="CGV.php">CGV EF'Ride</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="pave.php">PAVE</a>
+                    <li><a href="pave.php">PAVE EF'Ride</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="hockefrei.php">Hock'Efrei</a>
+                    <li><a href="hockefrei.php">Hock'Efrei EF'Ride</a>
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
-                    <li><a href="sitemap.php">Site Map</a>
+                    <li><a href="sitemap.php">Site Map EF'Ride</a>
                     </li>  
                 </ul>
             </div>
