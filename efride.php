@@ -3,6 +3,8 @@
 
 <?php include ("head.php"); ?>
 
+<script data-ad-client="ca-pub-2972471352359922" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,500,700'>
 <link rel="stylesheet" href="css/styleteam.css">
 

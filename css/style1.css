@@ -410,7 +410,6 @@ header .intro-text .intro-heading {
 .coll {
     flex: 1;
     text-align: center;
-    padding: 20px;
     color: #fff;
     text-transform: uppercase;
 }
