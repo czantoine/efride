@@ -201,7 +201,7 @@ content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=
 								<span class="product-slider__price">50 € <sup>00</sup></span>
 								<div class="product-ctr">
 									<div class="product-labels">
-										<div class="product-labels__title"> <br> <br> <br> <br> DECK SIZE</div>
+										<div class="product-labels__title"> <br> <br> <br> DECK SIZE</div>
 
 										<div class="product-labels__group">
 											<label class="product-labels__item">
