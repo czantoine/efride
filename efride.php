@@ -222,7 +222,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a  class="portfolio-link" data-toggle="modal">
+						<a  href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -310,7 +310,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a  class="portfolio-link" data-toggle="modal">
+						<a  href="#portfolioModal10" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -664,19 +664,23 @@
 							<div class="row">
 								<div class="col-lg-8 col-lg-offset-2">
 									<div class="modal-body">
-										<!-- Project Details Go Here -->
-										<h2>Project Name</h2>
-										<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-										<img class="img-responsive img-centered" src="https://unsplash.imgix.net/44/9s1lvXLlSbCX5l3ZaYWP_hdr-1.jpg?q=75&w=1080&h=1080&fit=max&fm=jpg&auto=format&s=f0a1db79752dbb04ec6d2aab7d17c7b0" alt="">
-										<p>Start Bootstrap's Agency theme is based on Golden, a free PSD website template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Golden is a modern and clean one page web template that was made exclusively for Best PSD Freebies. This template has a great portfolio, timeline, and meet your team sections that can be easily modified to fit your needs.</p>
-										<p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/golden-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+								
+										<h2>Roller</h2>
+										<p class="item-intro text-muted">On sait pas combien on a défoncé de roues mais ça doit dépasser la centaine !</p>
+										<img class="img-responsive img-centered" src="img/modal/roller.jpeg" alt="roller, ef'ride, efride">
+										<p>
+										Apprendre a passer des trottoires, roller vite, slalomer, sauter des obstacles c'est primordial pour se ballader tranquillement en roller.</p>
+									<p>
+										<strong>Envie de faire du roller ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on va bruler des roues !</p>						
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
+
 
 				<!-- Portfolio Modal 5 -->
 				<div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
@@ -697,7 +701,7 @@
 									<p>
 										Surfer sur la vague quoi de mieux comme sensation ! La mer te manque ou te tente. On a les surfeurs qu'il te faut pour découvrir les bons spots.</p>
 									<p>
-										<strong>Envie de surfer ? </strong>N'hésites pas <a href="https://efride.fr/contact.php">contact nous</a> on repart faire un surf trip ensemble !</p>						
+										<strong>Envie de surfer ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on repart faire un surf trip ensemble !</p>						
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
@@ -721,19 +725,51 @@
 							<div class="row">
 								<div class="col-lg-8 col-lg-offset-2">
 									<div class="modal-body">
-										<!-- Project Details Go Here -->
-										<h2>Project Name</h2>
-										<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-										<img class="img-responsive img-centered" src="https://unsplash.imgix.net/uploads%2F1411419068566071cef10%2F7562527b?q=75&w=1080&h=1080&fit=max&fm=jpg&auto=format&s=240c45655f09c546232a6f106688e502" alt="">
-										<p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-										<p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+								
+										<h2>Roller</h2>
+										<p class="item-intro text-muted">On sais pas combien on a défoncé de roues mais ça doit dépasser la centaine !</p>
+										<img class="img-responsive img-centered" src="img/modal/roller.jpeg" alt="roller, ef'ride, efride">
+										<p>
+										Apprendre a passer des trottoires </p>
+									<p>
+										<strong>Envie de faire du roller ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on va bruler des roues !</p>						
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
+
+
+			<!-- Portfolio Modal 10 -->
+				<div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+				<div class="modal-content">
+					<div class="close-modal" data-dismiss="modal">
+						<div class="lr">
+							<div class="rl">
+							</div>
+						</div>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-8 col-lg-offset-2">
+								<div class="modal-body">
+									<h2>BMX</h2>L'une des premières disciplines d'EF'Ride</p>
+									<img class="img-responsive" src="img/modal/bmx.jpeg" alt="bmx, ef'ride, efride">
+									<p>
+										Rouler en vélo et ajouter le coté freestyle. Ça c'est cool ! Le problème c'est que l'on va encore casser des roues et des vélos... que voulez-vous...</p>
+									<p>
+										<strong>Envie de faire du BMX ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on va rouler dans panam !</p>						
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>	
 
 				<!-- Portfolio Modal 12 -->
 			<div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
