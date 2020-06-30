@@ -92,40 +92,40 @@
 
 					<br/>	<br/>	<br/>	<br/>	<br/>	<br/><br/>	<br/>
 
-				
+
 					<a href="#services" class="page-scroll btn btn-xl">S'inscrire</a>
 
 					<br/>	<br/>	<br/>	<br/>	<br/>	<br/>	<br/>	<br/>	<br/>
 					<center>
-					<div class="middle">
-						<div class="counting-sec">
-							<div class="inner-width">
-								<div class="coll">
-									<i class="far fa-smile"></i>
-									<div class="num">70</div>
-									Membres
-								</div>
+						<div class="middle">
+							<div class="counting-sec">
+								<div class="inner-width">
+									<div class="coll">
+										<i class="far fa-smile"></i>
+										<div class="num">70</div>
+										Membres
+									</div>
 
-								<div class="coll">
-									<i class="far fa-eye"></i>
-									<div class="num">12</div>
-									Disciplines
-								</div>
+									<div class="coll">
+										<i class="far fa-eye"></i>
+										<div class="num">12</div>
+										Disciplines
+									</div>
 
-								<div class="coll">
-									<i class="fas fa-trophy"></i>
-									<div class="num">140</div>
-									Planches maltraitées
-								</div>
+									<div class="coll">
+										<i class="fas fa-trophy"></i>
+										<div class="num">140</div>
+										Planches maltraitées
+									</div>
 
-								<div class="coll">
-									<i class="far fa-dizzy"></i>
-									<div class="num">0</div>
-									Mort
+									<div class="coll">
+										<i class="far fa-dizzy"></i>
+										<div class="num">0</div>
+										Mort
+									</div>
 								</div>
 							</div>
 						</div>
-					</div>
 					</center>
 
 				</div>
@@ -180,7 +180,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a  class="portfolio-link" data-toggle="modal"> <!--href="#portfolioModal1"-->
+						<a  href="#portfolioModal1" class="portfolio-link" data-toggle="modal"> 
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -236,7 +236,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a  class="portfolio-link" data-toggle="modal">
+						<a  href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -338,7 +338,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a class="portfolio-link" data-toggle="modal">
+						<a href="#portfolioModal12" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -568,7 +568,7 @@
 
 			<?php include ("footer.php"); ?>
 
-
+			<!-- Portfolio Modal 1 -->
 			<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
 				<div class="modal-content">
 					<div class="close-modal" data-dismiss="modal">
@@ -581,19 +581,16 @@
 						<div class="row">
 							<div class="col-lg-8 col-lg-offset-2">
 								<div class="modal-body">
-									<!-- Project Details Go Here -->
-									<h2>Project Name</h2>
-									<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-									<img class="img-responsive" src="https://unsplash.imgix.net/uploads%2F1411419068566071cef10%2F7562527b?q=75&w=1080&h=1080&fit=max&fm=jpg&auto=format&s=240c45655f09c546232a6f106688e502" alt="">
-									<p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+									<h2>Longboard</h2>
+									<p class="item-intro text-muted">La planche des surfers...</p>
+									<img class="img-responsive" src="img/modal/longboard.jpeg" alt="longboard, ef'ride, efride">
 									<p>
-										<strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
-										<ul class="list-inline">
-											<li>Date: July 2014</li>
-											<li>Client: Round Icons</li>
-											<li>Category: Graphic Design</li>
-										</ul>
-										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+										En manque de vague et de sensations. Le longboard procure celle du surf et du snowboard. 
+									Rechercher les sensations des courbes et des trajectoires ou du dancing. </p>
+									<p>
+										<strong>Envie de pratiquer le longboard ? </strong>On vous prête notre <a href="https://efride.fr/materiels.php">matériel</a> plusieurs board sont à votre dispostion !</p>							
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
 								</div>
 							</div>
@@ -683,30 +680,33 @@
 
 				<!-- Portfolio Modal 5 -->
 				<div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-					<div class="modal-content">
-						<div class="close-modal" data-dismiss="modal">
-							<div class="lr">
-								<div class="rl">
-								</div>
+				<div class="modal-content">
+					<div class="close-modal" data-dismiss="modal">
+						<div class="lr">
+							<div class="rl">
 							</div>
 						</div>
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-8 col-lg-offset-2">
-									<div class="modal-body">
-										<!-- Project Details Go Here -->
-										<h2>Project Name</h2>
-										<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-										<img class="img-responsive img-centered" src="https://unsplash.imgix.net/46/Ov6ZY1zLTWmhPC0wFysP_IMG_2896_edt.jpg?q=75&w=1080&h=1080&fit=max&fm=jpg&auto=format&s=6518e4df89659818f6c0392175a9c5e6" alt="">
-										<p>Escape is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.</p>
-										<p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/escape-one-page-psd-web-template/">FreebiesXpress.com</a>.</p>
-										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-8 col-lg-offset-2">
+								<div class="modal-body">
+									<h2>Surf</h2>
+									<p class="item-intro text-muted">" Et si je dis qu'y a aucun danger à surfer sur cette plage capitaine, y a aucun danger à surfer sur cette plage... et puis merde j'vais en faire du surf moi ! J'vais en faire du surf sur cette plage de merde ! "</p>
+									<img class="img-responsive" src="img/modal/surf.jpeg" alt="surf, ef'ride, efride">
+									<p>
+										Surfer sur la vague quoi de mieux comme sensation ! La mer te manque ou te tente. On a les surfeurs qu'il te faut pour découvrir les bons spots.</p>
+									<p>
+										<strong>Envie de surfer ? </strong>N'hésites pas <a href="https://efride.fr/contact.php">contact nous</a> on repart faire un surf trip ensemble !</p>						
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
+
 
 				<!-- Portfolio Modal 6 -->
 				<div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
@@ -728,6 +728,36 @@
 										<p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
 										<p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Portfolio Modal 12 -->
+			<div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
+				<div class="modal-content">
+					<div class="close-modal" data-dismiss="modal">
+						<div class="lr">
+							<div class="rl">
+							</div>
+						</div>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-8 col-lg-offset-2">
+								<div class="modal-body">
+									<h2>Roller Agressif</h2>
+									<p class="item-intro text-muted">Heu... dis moi tu es perdu ? </p>
+									<img class="img-responsive" src="img/modal/rolleragressif.jpeg" alt="roller agressif, ef'ride, efride">
+									<p>
+										Et oui cette discipline existe encore... même si nous sommes peu nombreux, il y a toujours une personne pour t'apprendre ! Le plaisir de rouler, avec le mélange du sport extreme.
+									 </p>
+									<p>
+										<strong>Envie de pratiquer le roller agressif ? </strong> Il faut savoir tomber pour apprendre. Rampes, slides, tricks et wax te donne envie alors <a href="https://efride.fr/contact.php">contact nous</a> on va trouver un créneau pour aller rider !</p>					 				
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
 								</div>
 							</div>
