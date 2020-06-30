@@ -28,7 +28,17 @@
 
 	<body>
    
-
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bloc -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2972471352359922"
+     data-ad-slot="1670457785"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
     <?php include ("footer.php"); ?>
