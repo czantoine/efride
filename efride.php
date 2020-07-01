@@ -194,7 +194,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a  class="portfolio-link" data-toggle="modal">
+						<a  href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -208,7 +208,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a class="portfolio-link" data-toggle="modal">
+						<a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -250,7 +250,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a  class="portfolio-link" data-toggle="modal">
+						<a  href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -266,7 +266,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a  class="portfolio-link" data-toggle="modal">
+						<a  href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -280,7 +280,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a class="portfolio-link" data-toggle="modal">
+						<a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -294,7 +294,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a  class="portfolio-link" data-toggle="modal">
+						<a  href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -324,7 +324,7 @@
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 portfolio-item">
-						<a  class="portfolio-link" data-toggle="modal">
+						<a  href="#portfolioModal11" class="portfolio-link" data-toggle="modal">
 							<div class="portfolio-hover">
 								<div class="portfolio-hover-content">
 									<i class="fa fa-plus fa-3x"></i>
@@ -600,23 +600,27 @@
 
 				<!-- Portfolio Modal 2 -->
 				<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-					<div class="modal-content">
-						<div class="close-modal" data-dismiss="modal">
-							<div class="lr">
-								<div class="rl">
-								</div>
+				<div class="modal-content">
+					<div class="close-modal" data-dismiss="modal">
+						<div class="lr">
+							<div class="rl">
 							</div>
 						</div>
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-8 col-lg-offset-2">
-									<div class="modal-body">
-										<h2>Project Heading</h2>
-										<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-										<img class="img-responsive img-centered" src="https://unsplash.imgix.net/44/9s1lvXLlSbCX5l3ZaYWP_hdr-1.jpg?q=75&w=1080&h=1080&fit=max&fm=jpg&auto=format&s=f0a1db79752dbb04ec6d2aab7d17c7b0" alt="">
-										<p><a href="https://designmodo.com/startup/?u=787">Startup Framework</a> is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects.</p>
-										<p>You can preview Startup Framework <a href="https://designmodo.com/startup/?u=787">here</a>.</p>
-										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-8 col-lg-offset-2">
+								<div class="modal-body">
+									<h2>Skateboard</h2>
+									<p class="item-intro text-muted">Viens casser des planches !</p>
+									<img class="img-responsive" src="img/modal/skateboard.jpeg" alt="skateboard, ef'ride, efride">
+									<p>
+										Tu veux simplement rouler, apprendre à lancer des tricks, faire du skate park. Peut importe ton niveau, débutant ou confirmé on se fait une session quand tu veux. On a aussi nos propres planches dans le 
+										<a href="https://efride.fr/shop.php">shop</a>.</p> 
+									<p>
+										<strong>Envie de pratiquer le skateboard ? </strong>On vous prête notre <a href="https://efride.fr/materiels.php">matériel</a> plusieurs board sont à votre dispostion !</p>							
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
 								</div>
 							</div>
@@ -626,24 +630,26 @@
 
 				<!-- Portfolio Modal 3 -->
 				<div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-					<div class="modal-content">
-						<div class="close-modal" data-dismiss="modal">
-							<div class="lr">
-								<div class="rl">
-								</div>
+				<div class="modal-content">
+					<div class="close-modal" data-dismiss="modal">
+						<div class="lr">
+							<div class="rl">
 							</div>
 						</div>
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-8 col-lg-offset-2">
-									<div class="modal-body">
-										<!-- Project Details Go Here -->
-										<h2>Project Name</h2>
-										<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-										<img class="img-responsive img-centered" src="https://unsplash.imgix.net/46/Ov6ZY1zLTWmhPC0wFysP_IMG_2896_edt.jpg?q=75&w=1080&h=1080&fit=max&fm=jpg&auto=format&s=6518e4df89659818f6c0392175a9c5e6" alt="">
-										<p>Treehouse is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects.</p>
-										<p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.</p>
-										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-8 col-lg-offset-2">
+								<div class="modal-body">
+									<h2>Cruiser</h2>
+									<p class="item-intro text-muted">Rouler tranquille pour se déplacer rapidement ?</p>
+									<img class="img-responsive" src="img/modal/cruiser.jpeg" alt="cruiser, ef'ride, efride">
+									<p>
+										Bon ok, sur la photo la planche est morte. Mais ça on a l'habitude chez nous. </p>
+									<p>
+										<strong>Envie de pratiquer le cruiser ? </strong>On vous prête notre <a href="https://efride.fr/materiels.php">matériel</a> plusieurs board sont à votre dispostion !</p>							
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
 								</div>
 							</div>
@@ -666,6 +672,7 @@
 									<div class="modal-body">
 								
 										<h2>Roller</h2>
+
 										<p class="item-intro text-muted">On sait pas combien on a défoncé de roues mais ça doit dépasser la centaine !</p>
 										<img class="img-responsive img-centered" src="img/modal/roller.jpeg" alt="roller, ef'ride, efride">
 										<p>
@@ -726,13 +733,103 @@
 								<div class="col-lg-8 col-lg-offset-2">
 									<div class="modal-body">
 								
-										<h2>Roller</h2>
-										<p class="item-intro text-muted">On sais pas combien on a défoncé de roues mais ça doit dépasser la centaine !</p>
-										<img class="img-responsive img-centered" src="img/modal/roller.jpeg" alt="roller, ef'ride, efride">
+										<h2>Vélo</h2>
+										<p class="item-intro text-muted">Notre pôle vélo est fait pour toi !</p>
+										<img class="img-responsive img-centered" src="img/modal/velo.jpeg" alt="velo, dirt, ef'ride, efride">
+										<p>
+										Vélo de route, Dirt, DH, tout y passe !</p>
+									<p>
+										<strong>Envie de faire du velo ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> !</p>						
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Portfolio Modal 7 -->
+				<div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+					<div class="modal-content">
+						<div class="close-modal" data-dismiss="modal">
+							<div class="lr">
+								<div class="rl">
+								</div>
+							</div>
+						</div>
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-8 col-lg-offset-2">
+									<div class="modal-body">
+								
+										<h2>Patinoire</h2>
+										<p class="item-intro text-muted">Apprendre à patiner</p>
+										<img class="img-responsive img-centered" src="img/modal/patinoire.jpeg" alt="patinoire, patins a glace, ef'ride, efride, hockefrei , hock'efrei">
 										<p>
 										Apprendre a passer des trottoires </p>
 									<p>
-										<strong>Envie de faire du roller ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on va bruler des roues !</p>						
+										<strong>Envie de faire du patins à glace ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a>. On tout simplement faire une  <a href="https://efride.fr/soireepatinoire.php">soirée patinoire</a> ? </p>						
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Portfolio Modal 8 -->
+				<div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+					<div class="modal-content">
+						<div class="close-modal" data-dismiss="modal">
+							<div class="lr">
+								<div class="rl">
+								</div>
+							</div>
+						</div>
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-8 col-lg-offset-2">
+									<div class="modal-body">
+								
+										<h2>Snowboard</h2>
+										<p class="item-intro text-muted">Le froid et la glisse</p>
+										<img class="img-responsive img-centered" src="img/modal/snowboard.jpeg" alt="snow, snowboard, ski, ef'ride, efride">
+										<p>
+										Sensations et glisses certifié ! On part a la montagne descendre les pistes. </p>
+									<p>
+										<strong>Envie de faire du snowboard ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on va faire fondre la neige !</p>						
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Portfolio Modal 9 -->
+				<div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+					<div class="modal-content">
+						<div class="close-modal" data-dismiss="modal">
+							<div class="lr">
+								<div class="rl">
+								</div>
+							</div>
+						</div>
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-8 col-lg-offset-2">
+									<div class="modal-body">
+								
+										<h2>Hockey sur glace</h2>
+										<p class="item-intro text-muted">La première équipe universitaire de France</p>
+										<img class="img-responsive img-centered" src="img/modal/hockefrei.jpeg" alt="hockefrei, hockey sur glace, première équipe, universitaire, hock'efrei, ef'ride, efride">
+										<p>
+										Si tu veux faire un sport rapide c'est celui qu'il te faut.  </p>
+									<p>
+										<strong>Envie de faire du Hockey sur glace ? </strong>Avec <a href="https://efride.fr/hockefrei.php">Hock'Efrei</a> tu peux te lancer facilement !</p>						
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
@@ -770,6 +867,37 @@
 						</div>
 					</div>
 				</div>	
+
+				<!-- Portfolio Modal 11 -->
+				<div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+					<div class="modal-content">
+						<div class="close-modal" data-dismiss="modal">
+							<div class="lr">
+								<div class="rl">
+								</div>
+							</div>
+						</div>
+						<div class="container">
+							<div class="row">
+								<div class="col-lg-8 col-lg-offset-2">
+									<div class="modal-body">
+								
+										<h2>Wakeboard</h2>
+										<p class="item-intro text-muted">Les premières grosses activités d'EF'Ride ! </p>
+										<img class="img-responsive img-centered" src="img/modal/wakeboard.jpeg" alt="wakeboard, ski nautique, ef'ride, efride">
+										<p>
+										On aime le bitume mais aussi l'eau. Quand il s'agit de sport extreme on dit pas non de toute façon. On fait aussi du ski-nautique ou du mono ski pour ce qui aime.</p>
+									<p>
+										<strong>Envie de faire du wakeboard ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on organise une session près de Paris !</p>						
+										
+										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
 
 				<!-- Portfolio Modal 12 -->
 			<div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
