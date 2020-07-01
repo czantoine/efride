@@ -1,5 +1,20 @@
 <head>
 
+    <!-- 
+
+    ####### ####### ### ####### ### ######  ###### 
+    #       #       ### #     #  #  #     # #       
+    #       #       ##  #     #  #  #     # #       
+    #####   #####   #   ######   #  #     # #####   
+    #       #           #   #    #  #     # #       
+    #       #           #    #   #  #     # #       
+    ####### #           #     # ### ######  ####### 
+
+    Interested in our source ? Help us out by improving it - contact@efride.fr
+
+    -->
+
+
     <script data-ad-client="ca-pub-2972471352359922" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129310490-1"></script>
