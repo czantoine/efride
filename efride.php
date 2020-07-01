@@ -354,7 +354,9 @@
 				</div>
 			</br></br>
 			<center>
-				<a href="videos.php" class="page-scroll btn btn-xl">Regarder nos vidéos</a>
+				<h4>Jeter un oeil sur nos</h4> <br/>
+				<a href="videos.php" class="page-scroll btn btn-xl">vidéos</a>
+				<a href="photos.php" class="page-scroll btn btn-xl">photos</a>
 			</center>
 
 		</section>
