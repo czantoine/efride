@@ -49,7 +49,14 @@
 		</div>
 	</div>
 
-		<br/><br/>
+	<br/><br/>	<br/><br/>
+	<center>
+	<strong>Besoin de matériel ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contactez-nous</a> ! Longboard, skate, roller, wax, outils, rampe, barre de slide etc... on a ce qu'il faut !</p>	
+	</center>
+
+
+
+		<br/><br/>	<br/><br/>
 
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle" 

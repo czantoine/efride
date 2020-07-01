@@ -678,7 +678,7 @@
 										<p>
 										Apprendre a passer des trottoires, roller vite, slalomer, sauter des obstacles c'est primordial pour se ballader tranquillement en roller.</p>
 									<p>
-										<strong>Envie de faire du roller ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on va bruler des roues !</p>						
+										<strong>Envie de faire du roller ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contactez-nous</a> on va bruler des roues !</p>						
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
@@ -708,7 +708,7 @@
 									<p>
 										Surfer sur la vague quoi de mieux comme sensation ! La mer te manque ou te tente. On a les surfeurs qu'il te faut pour découvrir les bons spots.</p>
 									<p>
-										<strong>Envie de surfer ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on repart faire un surf trip ensemble !</p>						
+										<strong>Envie de surfer ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contactez-nous</a> on repart faire un surf trip ensemble !</p>						
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
@@ -739,7 +739,7 @@
 										<p>
 										Vélo de route, Dirt, DH, tout y passe !</p>
 									<p>
-										<strong>Envie de faire du velo ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> !</p>						
+										<strong>Envie de faire du velo ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contactez-nous</a> !</p>						
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
@@ -764,12 +764,12 @@
 									<div class="modal-body">
 								
 										<h2>Patinoire</h2>
-										<p class="item-intro text-muted">Apprendre à patiner</p>
+										<p class="item-intro text-muted">Apprendre a patiner</p>
 										<img class="img-responsive img-centered" src="img/modal/patinoire.jpeg" alt="patinoire, patins a glace, ef'ride, efride, hockefrei , hock'efrei">
 										<p>
 										Apprendre a passer des trottoires </p>
 									<p>
-										<strong>Envie de faire du patins à glace ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a>. On tout simplement faire une  <a href="https://efride.fr/soireepatinoire.php">soirée patinoire</a> ? </p>						
+										<strong>Envie de faire du patins à glace ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contactez-nous</a>. On tout simplement faire une  <a href="https://efride.fr/soireepatinoire.php">soirée patinoire</a> ? </p>						
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
@@ -799,7 +799,7 @@
 										<p>
 										Sensations et glisses certifié ! On part a la montagne descendre les pistes. </p>
 									<p>
-										<strong>Envie de faire du snowboard ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on va faire fondre la neige !</p>						
+										<strong>Envie de faire du snowboard ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contactez-nous</a> on va faire fondre la neige !</p>						
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
@@ -858,7 +858,7 @@
 									<p>
 										Rouler en vélo et ajouter le coté freestyle. Ça c'est cool ! Le problème c'est que l'on va encore casser des roues et des vélos... que voulez-vous...</p>
 									<p>
-										<strong>Envie de faire du BMX ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on va rouler dans panam !</p>						
+										<strong>Envie de faire du BMX ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contactez-nous</a> on va rouler dans panam !</p>						
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
@@ -888,7 +888,7 @@
 										<p>
 										On aime le bitume mais aussi l'eau. Quand il s'agit de sport extreme on dit pas non de toute façon. On fait aussi du ski-nautique ou du mono ski pour ce qui aime.</p>
 									<p>
-										<strong>Envie de faire du wakeboard ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contact nous</a> on organise une session près de Paris !</p>						
+										<strong>Envie de faire du wakeboard ? </strong>N'hésites pas, <a href="https://efride.fr/contact.php">contactez-nous</a> on organise une session près de Paris !</p>						
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
@@ -919,7 +919,7 @@
 										Et oui cette discipline existe encore... même si nous sommes peu nombreux, il y a toujours une personne pour t'apprendre ! Le plaisir de rouler, avec le mélange du sport extreme.
 									 </p>
 									<p>
-										<strong>Envie de pratiquer le roller agressif ? </strong> Il faut savoir tomber pour apprendre. Rampes, slides, tricks et wax te donne envie alors <a href="https://efride.fr/contact.php">contact nous</a> on va trouver un créneau pour aller rider !</p>					 				
+										<strong>Envie de pratiquer le roller agressif ? </strong> Il faut savoir tomber pour apprendre. Rampes, slides, tricks et wax te donne envie alors <a href="https://efride.fr/contact.php">contactez-nous</a> on va trouver un créneau pour aller rider !</p>					 				
 										
 										<button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
 									</div>
