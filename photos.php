@@ -18,6 +18,7 @@
 
 
 	<body>
+		
 		<ul class="photogallery">
 			<li><img class="lazyload" data-src="img/gallery/deck.jpg" loading="lazy" alt="deck , skate, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/session.jpg" loading="lazy" alt="session, EF'Ride , efride , hock'efrei , hockefrei"/></li>
@@ -48,7 +49,6 @@
 			<li><img class="lazyload" data-src="img/gallery/supreme.jpg" loading="lazy" alt="deck, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/soiree.jpg" loading="lazy" alt="soiree, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/teckdeck.jpg" loading="lazy" alt="teckdeck, EF'Ride , efride , hock'efrei , hockefrei"/></li>
-			<li><img class="lazyload" data-src="img/gallery/vodk.jpg" loading="lazy" alt="vodk, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 		</ul>
 
 
