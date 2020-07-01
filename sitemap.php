@@ -32,6 +32,10 @@
                     </li>
                 </ul>
                 <ul class="list-inline quicklinks">
+                    <li><a href="photos.php">EF'Ride - Photos</a>
+                    </li>
+                </ul>
+                <ul class="list-inline quicklinks">
                     <li><a href="contact.php">EF'Ride - Contact</a>
                     </li>
                 </ul>	
