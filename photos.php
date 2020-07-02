@@ -29,7 +29,7 @@
 			<li><img class="lazyload" data-src="img/gallery/surftrip.jpg" loading="lazy" alt="surftrip, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/session5.jpg" loading="lazy" alt="session, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/paris.jpg" loading="lazy" alt="paris, EF'Ride , efride , hock'efrei , hockefrei"/></li>
-			<li><img class="lazyload" data-src="img/gallery/jpo.jpg" loading="lazy" alt="jpo, EFREI, EFREI PARIS, EF'Ride , efride , hock'efrei , hockefrei"/></li>
+			<li><img class="lazyload" data-src="img/gallery/jpo.png" loading="lazy" alt="jpo, EFREI, EFREI PARIS, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/kellogs.jpg" loading="lazy" alt="kellogs, EF'Ride , efride , hock'efrei , hockefrei"/></li> 
 			<li><img class="lazyload" data-src="img/gallery/cookie.png" loading="lazy" alt="cookie, EF'Ride , efride , hock'efrei , hockefrei"/></li> 
 			<li><img class="lazyload" data-src="img/gallery/kick.jpg" loading="lazy" alt="kickflip, tricks, EF'Ride , efride , hock'efrei , hockefrei"/></li> 
