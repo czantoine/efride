@@ -5,7 +5,6 @@
 
 <head>
 	<meta charset="UTF-8">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 	<link rel="stylesheet" href="css/photos.css">
 
 </head>
@@ -38,12 +37,30 @@
 			<li><img class="lazyload" data-src="img/gallery/session1.jpg" loading="lazy" alt="session, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/sushi.jpg" loading="lazy" alt="sushi, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/ouch.jpg" loading="lazy" alt="ouch, EF'Ride , efride , hock'efrei , hockefrei"/></li>
+		</ul>
+
+		<center>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Carré -->
+		<ins class="adsbygoogle"
+		style="display:block"
+		data-ad-client="ca-pub-2972471352359922"
+		data-ad-slot="8335938481"
+		data-ad-format="auto"
+		data-full-width-responsive="true"></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		</center>
+
+		<ul  class="photogallery">
 			<li><img class="lazyload" data-src="img/gallery/session6.jpg" loading="lazy" alt="session, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/rollerhs.jpg" loading="lazy" alt="roller, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/soiree1.jpg" loading="lazy" alt="soiree, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/skate3.jpg" loading="lazy" alt="skate, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/photo.jpg" loading="lazy" alt="photo, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/juu.jpg" loading="lazy" alt="juu, EF'Ride , efride , hock'efrei , hockefrei"/></li>
+
 			<li><img class="lazyload" data-src="img/gallery/nozman.jpg" loading="lazy" alt="nozman, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/roues.jpg" loading="lazy" alt="roues, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/friend.jpg" loading="lazy" alt="friend, EF'Ride , efride , hock'efrei , hockefrei"/></li>
@@ -63,8 +80,19 @@
 			<li><img class="lazyload" data-src="img/gallery/teckdeck.jpg" loading="lazy" alt="teckdeck, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 		</ul>
 
-
-		<script src='https://cdnjs.cloudflare.com/ajax/libs/object-fit-images/3.2.4/ofi.min.js'></script>
+		<center>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Carré -->
+		<ins class="adsbygoogle"
+		style="display:block"
+		data-ad-client="ca-pub-2972471352359922"
+		data-ad-slot="8335938481"
+		data-ad-format="auto"
+		data-full-width-responsive="true"></ins>
+		<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		</center>
 
 		<script  src="photos.js"></script>
 
