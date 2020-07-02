@@ -22,7 +22,7 @@ Cette initiative qui a été quelque peu médiatisée a dores et déjà inspiré
 Ainsi le hockey sur glace est, pour Hock'Efrei, bien plus qu'un sport, c'est une aventure humaine : cette passion, cette motivation qui lui ont permis de naître se propagent au delà de notre équipe, au delà de nos espérances en inspirant d'autres équipes à se lancer. De cette manière nous espérons participer à la démocratisation du hockey sur glace dans le milieu universitaire en créant un nouvel engouement autour de celui-ci.</p></center>
 
     <br/><br/><br/><br/>            
-
+<center>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- bloc -->
 <ins class="adsbygoogle"
@@ -34,7 +34,7 @@ Ainsi le hockey sur glace est, pour Hock'Efrei, bien plus qu'un sport, c'est une
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+</center>
     <?php include ("footer.php"); ?>
 
 </body>
