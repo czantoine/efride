@@ -63,7 +63,7 @@
 			<li><img class="lazyload" data-src="img/gallery/skate3.jpg" loading="lazy" alt="skate, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/photo.jpg" loading="lazy" alt="photo, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/juu.jpg" loading="lazy" alt="juu, EF'Ride , efride , hock'efrei , hockefrei"/></li>
-			<li><img class="lazyload" data-src="img/gallery/sport.jpg" loading="lazy" alt="sport, EF'Ride , efride , hock'efrei , hockefrei , efrei paris"/></li>
+			<li><img class="lazyload" data-src="img/gallery/sport.png" loading="lazy" alt="sport, EF'Ride , efride , hock'efrei , hockefrei , efrei paris"/></li>
 			<li><img class="lazyload" data-src="img/gallery/nozman.jpg" loading="lazy" alt="nozman, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/roues.jpg" loading="lazy" alt="roues, EF'Ride , efride , hock'efrei , hockefrei"/></li>
 			<li><img class="lazyload" data-src="img/gallery/friend.jpg" loading="lazy" alt="friend, EF'Ride , efride , hock'efrei , hockefrei"/></li>
