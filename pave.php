@@ -24,12 +24,12 @@
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
       <script>
-       (adsbygoogle = window.adsbygoogle || []).push({});
-   </script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
 
 
-</center>
-<?php include ("footer.php"); ?>
+ </center>
+ <?php include ("footer.php"); ?>
 
 </body>
 </html>
