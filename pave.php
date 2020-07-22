@@ -11,7 +11,16 @@
     <p> 10 heures de participation -> 1 point PAVE  </p>
     <p> 40 heures de participation -> 4 points PAVE  </p>
 
-    <iframe width="100%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT593VLa7gbw6lw64UJ_LVebwhhjYBg9fnyeidT2RxVvFcxsYquDMYQWUIq_e2Ao7Qokd1Xi0wfNTAU/pubhtml?widget=true&amp;headers=false"></iframe>
+   <table id="loans" >
+        <thead>
+          <tr>
+            <th>Prénom</th>
+            <th>Nombre d'heures :</th>
+            <th>Point PAVE attribué :</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
 
     <center>
 
@@ -26,6 +35,10 @@
       <script>
          (adsbygoogle = window.adsbygoogle || []).push({});
      </script>
+
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+      <script  src="pave.js"></script>  
 
 
  </center>

@@ -760,6 +760,33 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
+th {
+  color: black;
+  border-bottom: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  min-width: 100px;
+  font-family: arial;
+}
+
+td {
+  color: #4F5050;
+  border-bottom: 1.5px solid red;
+  text-align: center;
+  padding: 5px;
+  min-width: 100px;
+  font-family: arial;
+}
+
+td:hover {
+  color : black ;
+}
+
+table {
+ border-collapse: collapse;
+ width: 100%;
+}
+
 
 section#contact {
     background-color: #222;
