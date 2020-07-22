@@ -147,7 +147,7 @@
 							<i class="glyphicon glyphicon-header"></i>
 						</span>
 						<h4 class="service-heading">Hock'efrei</h4>
-						<p class="text-muted">Le Hock'Efrei est l'association de hockey sur glace de l'école d'ingénieurs généralistes du numerique Efrei Paris. Elle représente la toute 1ère équipe universitaire française !</p>
+						<p class="text-muted">Le Hock'Efrei est le club de hockey sur glace de l'école d'ingénieurs généralistes du numerique Efrei Paris. Elle représente la toute 1ère équipe universitaire française !</p>
 					</div>
 					<div class="col-md-4">
 						<span class="fa-stack fa-4x">
