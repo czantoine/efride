@@ -15,8 +15,8 @@
         <thead>
           <tr>
             <th>Prénom</th>
-            <th>Nombre d'heures :</th>
-            <th>Point PAVE attribué :</th>
+            <th>Nombre d'heures</th>
+            <th>Point PAVE attribué</th>
           </tr>
         </thead>
         <tbody></tbody>
