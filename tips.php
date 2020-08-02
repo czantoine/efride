@@ -14,14 +14,16 @@
 	<center><h2>Tips gratuit</h2></center>   
 
 	<br/><br/>   
-	<center><p>Regardez une pub pour nous aider 😎 </p></center>
+	<center>
 
-	<br/>
+		<p>Cliquez sur la pub pour nous aider 😎 </p>
 
-	<div class="imgtips">
-		<center><a href="https://utip.io/efride" target="_blank"><img src="img/utip.png"></a></center>
-	</div>
+		<br>
+		
+		<i>Désactivez votre bloqueur de publicité, si elle n'apparait pas</i>
 
+
+	</center>
 
 	<br/>
 	<br/>

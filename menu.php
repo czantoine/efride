@@ -27,9 +27,6 @@
 					<a class="page-scroll" href="shop.php">Shop</a>
 				</li>
 				<li class="">
-					<a class="page-scroll" href="tips.php">Tips</a>
-				</li>
-				<li class="">
 					<a class="page-scroll" href="materiels.php">Matériels</a>
 				</li>
 			</ul>
