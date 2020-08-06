@@ -10,7 +10,7 @@
     #       #           #    #   #  #     # #       
     ####### #           #     # ### ######  ####### 
 
-    Interested in our source ? Help us out by improving it - contact@efride.fr
+    Interested in our source ? Help us out by improving it - contact@efride.fr or https://github.com/czantoine/efride
 
     -->
 
