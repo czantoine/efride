@@ -10,7 +10,12 @@
     #       #           #    #   #  #     # #       
     ####### #           #     # ### ######  ####### 
 
+    GNU AFFERO GENERAL PUBLIC LICENSE
+
     Interested in our source ? Help us out by improving it - contact@efride.fr or https://github.com/czantoine/efride
+
+    EF'Ride website https://efride.fr/ association at EFREI PARIS
+    Copyright (C) 2020  czantoine
 
     -->
 
