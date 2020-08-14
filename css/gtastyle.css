@@ -5,13 +5,23 @@ body {
   margin:0;
 }
 
+@font-face {
+  font-family: PricedownBl-Regular;
+  src: url('../font/pricedown bl.woff'),
+  url("font/pricedown bl.ttf")  format('truetype');
+}
+
 #container {
   display:none;
   overflow:hidden;
-  position:relative;
+
   background-image:url(https://rsgames.hs.llnwd.net/o10/ZTM1MTNmMmVjYjRhNWViNWQ3ZmZhOGUyMDI2OGJlYzY=/imgs/Brooklyn-Bridge-Cityscape_2560.jpg);
   -webkit-animation: bgmove 30s infinite linear;
+  height: 100%;
   z-index: 1;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #nico, #roman, #dmitriy {

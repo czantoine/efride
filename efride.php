@@ -133,7 +133,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h2 class="section-heading">S'inscrire</h2>
+						<h2  style="font-family:'PricedownBl-Regular';font-size:55px ;class="section-heading">S'inscrire</h2>
+
 						<h3 class="section-subheading text-muted">Ride anytime ! Ride anywhere !</h3>
 					</div>
 				</div>
@@ -171,7 +172,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h2 class="section-heading">Activités</h2>
+						<h2 style="font-family:'PricedownBl-Regular';font-size:55px; class="section-heading">Activités</h2>
 						<h3 class="section-subheading text-muted">Plus de 10 disciplines...</h3>
 					</div>
 				</div>
@@ -363,7 +364,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h2 class="section-heading">Notre histoire...</h2>
+						<h2  style="font-family:'PricedownBl-Regular';font-size:55px ;class="section-heading">Notre histoire...</h2>
 						<h3 class="section-subheading text-muted"></h3>
 					</div>
 				</div>
@@ -444,7 +445,7 @@
 			<section id="team">
 				<div class="row">
 					<div class="col-lg-12 text-center">
-						<h2 class="section-heading">TEAM</h2>
+						<h2 style="font-family:'PricedownBl-Regular';font-size:55px;class="section-heading">TEAM</h2>
 						<h3 class="section-subheading text-muted"></h3>
 					</div>
 				</div>

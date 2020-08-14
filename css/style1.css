@@ -6,8 +6,9 @@ body {
 }
 
 @font-face {
-  font-family: h1;
-  src: url('../font/pricedown bl.woff');
+  font-family: PricedownBl-Regular;
+  src: url('../font/pricedown bl.woff'),
+  url("font/pricedown bl.ttf")  format('truetype');
 }
 
 .logo{
