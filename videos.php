@@ -16,8 +16,8 @@
 		<section class="column left banner">
 
 			<a
-			href="" 
-			data-youtube-id="" 
+			href="https://www.youtube.com/watch?v=0zqFS1ZV1sw" 
+			data-youtube-id="0zqFS1ZV1sw" 
 			class="video-banner js-trigger-video-modal"
 			>
 			<img 
