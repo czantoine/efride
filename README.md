@@ -28,10 +28,13 @@ If this is your first time making a PR or aren't sure of the standard practice o
  ## Features
  
 - [x] Responsive for any devices 
+- [x] Online Payment
+- [x] Google Analytics
+- [x] Responsive Ads
 
 ## Credits
 
--
+- [czantoine](https://github.com/czantoine)
 -
 
 ## Contributors
