@@ -1,0 +1,64 @@
+body{
+  background-color: black;
+}
+
+h1{
+  font-size: 60px;
+  color: white;
+}
+
+table{
+color: white;
+position: center;
+}
+
+
+h2{
+  font-size: 50px;
+  color: white;
+}
+
+h3{
+  font-size: 30px;
+  color: white;
+}
+
+
+.box {
+  width: 20%;
+  margin: 0 auto;
+  display : inline-block;
+}
+
+span {
+font-size: 40px;
+
+}
+
+hr { 
+    background: url('http://efride.fr/img/logo-efride-blanc.png') no-repeat top center;
+    background-size: contain;
+    display: block;
+    height: 30px;
+    border: 0;
+    position: relative;
+}
+hr:before,
+hr:after {
+    content: '';
+    display: block;
+    position: absolute;
+    background: #d7d7d7;
+    height: 2px;
+    top: 15px;
+}
+hr:before {
+    left: 0;
+    right: 50%;
+    margin-right: 35px;
+}
+hr:after {
+    right: 0;
+    left: 50%;
+    margin-left: 35px;
+}

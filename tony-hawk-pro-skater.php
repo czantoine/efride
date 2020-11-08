@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr" >
+
+<?php include ("head.php"); ?>
+
+<link rel="stylesheet" href="/css/stylepro.css">
+
+<head>
+	<META HTTP-EQUIV="Refresh" CONTENT="30; URL=http://localhost:8888/tony-hawk-pro-skater.php">
+</head>
+
+<body>
+
+    <?php include ("menu.php"); ?>
+
+    <center>
+ 	<br><br>
+
+ 	<img width="50%" height="50%" src="img/tony.png">
+    
+    <h2>Best score : </h2>
+    <table id="classement">	
+	</table>
+	
+	<hr>
+
+	<table id="som" >	
+	</table>
+
+	<hr>
+
+	<h3>PRICE : </h3>
+
+	
+	<img class="box" width="30%" height="30%" src="img/shop/deckserie2.png" style="transform:rotate(90deg);">
+	<img class="box" width="30%" height="30%" src="img/shop/casquetteefride.png">
+	<img class="box" width="30%" height="30%" src="img/shop/space-edition.png" style="transform:rotate(90deg);">
+	
+	<hr>
+
+	<h3>Tableau des joueurs : </h3>
+    <table id="tablescore" >	
+	</table>
+    <center>
+    <br/><br/><br/><br/>            
+
+    <?php include ("footer.php"); ?>
+
+    <script  src="pro.js"></script>
+    <script  src="cmpt.js"></script>
+    <script  src="player.js"></script>
+
+</body>
+</html>
