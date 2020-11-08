@@ -11,9 +11,9 @@ $.getJSON( jsonSource, function() {
        var $score = item.gsx$score.$t;
       
 
-      $("<center><h3>" + $pseudo +" "
+      $("<center><h4>" + $pseudo +" "
       + $score +  
-        "</h3></center>").appendTo("#tablescore");
+        "</h4></center>").appendTo("#tablescore");
     });
   } else {
     $("<p>JSON request succeeded but no data returned.</p>").prependTo("#container");

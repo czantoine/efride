@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="/css/stylepro.css">
 
 <head>
-	<META HTTP-EQUIV="Refresh" CONTENT="30; URL=http://localhost:8888/tony-hawk-pro-skater.php">
+	<META HTTP-EQUIV="Refresh" CONTENT="20; URL=https://efride.fr/tony-hawk-pro-skater.php">
 </head>
 
 <body>
