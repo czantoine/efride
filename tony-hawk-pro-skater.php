@@ -16,7 +16,7 @@
     <center>
  	<br><br>
 
- 	<img width="50%" height="50%" src="img/tony.png">
+ 	<img  src="img/tony.png" width="50%" height="50%">
     
     <h2>Best score : </h2>
     <table id="classement">	
