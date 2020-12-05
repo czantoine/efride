@@ -1,4 +1,4 @@
-# EF'Ride web site 
+# EF'Ride web site  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22V693)
 
 [EF'Ride website](https://efride.fr/) for association at [EFREI PARIS](https://www.efrei.fr/)
 
