@@ -1,4 +1,4 @@
-# EF'Ride web site  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22V693)
+# EF'Ride web site 
 
 [EF'Ride website](https://efride.fr/) for association at [EFREI PARIS](https://www.efrei.fr/)
 
@@ -34,7 +34,7 @@ If this is your first time making a PR or aren't sure of the standard practice o
 
 ## Credits
 
-- [czantoine](https://github.com/czantoine)
+- [czantoine](https://github.com/czantoine) [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22V693)
 -
 
 ## Contributors
