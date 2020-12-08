@@ -8,6 +8,7 @@
 - [Feature Requests](#feature-requests)
 - [Pull Requests](#pull-requests)
 - [Features](#features)
+- [Discussions](#discussions)
 - [Credits](#credits)
 
 ### [Bugs / Issues](https://github.com/czantoine/efride/issues)
@@ -31,6 +32,9 @@ If this is your first time making a PR or aren't sure of the standard practice o
 - [x] Online Payment
 - [x] Google Analytics
 - [x] Responsive Ads
+
+### [Discussions](https://github.com/czantoine/efride/discussions)
+You can discuss on this [page](https://github.com/czantoine/efride/discussions) and share your ideas. 
 
 ## Credits
 
