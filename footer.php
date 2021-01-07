@@ -7,7 +7,7 @@
  					<li><a href="tips.php">Tips Gratuit</a>
  					</li>
  				</ul>
- 				<p>Copyright © EF'Ride 2014 - 2020</p>
+ 				<p>Copyright © EF'Ride 2014 - 2021</p>
  				<ul class="list-inline quicklinks">
  					<li><a href="pave.php">PAVE</a>
  					</li>
