@@ -1,7 +1,3 @@
-//  The canvas in the background made by emma
-//  in her Pen Canvas Particles & Cubic Bezier.
-//  https://codepen.io/boltaway/pen/PwGxNX/
-
 $(function() {
   var canvas = document.getElementById('nodes'),
       ctx = canvas.getContext('2d'),
