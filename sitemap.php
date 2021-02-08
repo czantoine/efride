@@ -60,6 +60,10 @@
             </li>
         </ul>
         <ul class="list-inline quicklinks">
+            <li><a href="ancien_membre.php">EF'Ride - Anciens Membres</a>
+            </li>  
+        </ul>
+        <ul class="list-inline quicklinks">
             <li><a href="CGV.php">EF'Ride - CGV</a>
             </li>
         </ul>
