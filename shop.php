@@ -37,6 +37,10 @@ content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=
 					<img src="img/shop/space-edition.png" alt="deck space edition EF'Ride" class="product-img__img">
 				</div>
 
+				<div class="product-img__item" id="img5">
+					<img src="img/shop/gourdeefride.png" alt="gourde EF'Ride">
+				</div>
+
 
 			</div>
 
@@ -174,6 +178,67 @@ content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=
 										</div>
 
 										<span class="product-inf__title">DURABILITY</span>
+									</div>
+
+								</div>
+
+								<div class="product-slider__bottom">
+									<a href="order.php">
+										<button class="product-slider__cart">
+											ACHETER
+										</button>
+									</a>
+
+									
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="product-slider__item swiper-slide" data-target="img5">
+						<div class="product-slider__card">
+							<img src="img/shop/metall.jpeg" alt="background" class="product-slider__cover">
+							<div class="product-slider__content">
+								<h1 class="product-slider__title">
+									GOURDE<br> EF'RIDE
+								</h1>
+								<span class="product-slider__price">25 € <sup>00</sup></span>
+								<div class="product-ctr">
+									<div class="product-labels">
+										<div class="product-labels__title">SIZE</div>
+
+										<div class="product-labels__group">
+											<label class="product-labels__item">
+												<input type="radio" class="product-labels__checkbox" name="type1" checked>
+												<span class="product-labels__txt">500 ml</span>
+											</label>
+
+											
+										</div>
+
+									</div>
+
+									<span class="hr-vertical"></span>
+
+									<div class="product-inf">
+										<div class="product-inf__percent">
+											<div class="product-inf__percent-circle">
+												<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+													<defs>
+														<linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+															<stop offset="0%" stop-color="#0c1e2c" stop-opacity="0" />
+															<stop offset="100%" stop-color="#cb2240" stop-opacity="1" />
+														</linearGradient>
+													</defs>
+													<circle cx="50" cy="50" r="47" stroke-dasharray="290, 300" stroke="#cb2240" stroke-width="4" fill="none"/>
+												</svg>
+											</div>
+											<div class="product-inf__percent-txt">
+												99%
+											</div>
+										</div>
+
+										<span class="product-inf__title">STAINLESS</span>
 									</div>
 
 								</div>
