@@ -28,6 +28,7 @@
         <div><a href="http://github.com/czantoine" title="GitHub (@czantoine)" target="_blank">GitHub</a></div>
         <p>2017 - 2021 Trésorier</p>
       <p>2016 - 2017 Responsable communication </p>
+      <p>Membre d'honneur depuis 2021</p>
       <p>Membre depuis 2016</p>
       </div>
 

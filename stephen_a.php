@@ -28,6 +28,7 @@
         <div><a href="https://github.com/EverAged" target="_blank">GitHub</a></div>
         <div><a href="https://www.twitch.tv/hibilly" target="_blank">Twitch</a></div>
         <p>2016 - 2021 Président</p>
+        <p>Membre d'honneur depuis 2021</p>
         <p>Membre depuis 2016</p>
       </div>
 

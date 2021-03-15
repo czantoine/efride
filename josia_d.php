@@ -27,6 +27,7 @@
         <div><a href="https://www.linkedin.com/in/josia-douniama/" target="_blank">Linkedin</a></div>
         <div><a href="https://github.com/Josia-Douniama" target="_blank">GitHub</a></div>
         <p>2018 - 2021 Vice-trésorière</p>
+        <p>Membre d'honneur depuis 2021</p>
         <p>Membre depuis 2017</p>
       </div>
 
