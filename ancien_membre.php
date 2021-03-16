@@ -49,12 +49,27 @@
 	<h2>Membres d'honneur</h2> 
 
 	<ul class="list-inline quicklinks">
+		<li><a href="antoine_c.php">Antoine C.</a>
+		</li>  
+	</ul>
+
+	<ul class="list-inline quicklinks">
+		<li><a href="joisa_d.php">Josia D.</a>
+		</li>  
+	</ul>
+
+	<ul class="list-inline quicklinks">
 		<li><a href="julie_n.php">Julie N.</a>
 		</li>  
 	</ul>  
 
 	<ul class="list-inline quicklinks">
 		<li><a href="damien_c.php">Damien C.</a>
+		</li>  
+	</ul>
+
+	<ul class="list-inline quicklinks">
+		<li><a href="stephen_a.php">Stephen A.</a>
 		</li>  
 	</ul>
 
