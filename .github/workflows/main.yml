@@ -25,9 +25,8 @@ jobs:
         with:
           username:  ${{ secrets.USERNAME }}
           server: ${{ secrets.HOTE }}
-          password: ${{ secrets.PASSWORD }}
           port: 22 # default is 22
-          #ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
  
           
           # will put all file under this path
